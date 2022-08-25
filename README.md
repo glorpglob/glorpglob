@@ -7,9 +7,6 @@ Most stuff I create isn't on here. This is simply open source projects.
 - [rblxModules](https://github.com/widesteal321/rblxModules) **- Luau**
 - [codegolf](https://github.com/widesteal321/codegolf) **- Various languages**
 - [retrieveDiscordMessages](https://github.com/widesteal321/retrieveDiscordMessages) **- TypeScript/JavaScript →** [randomSentenceBot](https://github.com/widesteal321/randomSentenceBot) **- JavaScript**
-
-![](https://github.com/widesteal321/aaaaaaaaaa1/blob/master/generated/overview.svg)
-![](https://github.com/widesteal321/aaaaaaaaaa1/blob/master/generated/languages.svg)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizard-beth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizard-beth)](https://github.com/anuraghazra/github-readme-stats)
 (pfp art stolen from https://twitter.com/04119__snail)
