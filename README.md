@@ -1,5 +1,4 @@
-I plan to start working on much larger projects starting sometime this year!
-\- 20/02/2023
+I have a personal account that I use far more than this one.
 
 ![](https://github.com/elizard-beth/aaaaaaaaaa1/blob/master/generated/languages.svg)
 
