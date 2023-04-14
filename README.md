@@ -1,4 +1,4 @@
-This account is for legacy projects, my personal account is used for more up-to-date and functional programs.
+This account is for legacy projects mostly written in JavaScript or Lua, my personal account is used for more up-to-date and functional programs.
 
 ![](https://github.com/elizard-beth/aaaaaaaaaa1/blob/master/generated/languages.svg)
 
