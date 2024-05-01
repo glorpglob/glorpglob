@@ -1,4 +1,6 @@
-My personal account is used for more up-to-date and functional programs: https://github.com/logancammish
+This account is used mostly for Lua and Luau projects.
+
+My main account: https://github.com/logancammish
 
 
 ![](https://github.com/glorpglob/aaaaaaaaaa1/blob/master/generated/overview.svg#gh-dark-mode-only)
